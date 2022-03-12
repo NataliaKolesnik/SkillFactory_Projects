@@ -1,5 +1,7 @@
-# SkillFactory_Projects
-**Проекты, выполненные в рамках обучения в онлайн-школе SkillFactory на курсе Data Science**
+![Иллюстрация к проекту](https://github.com/NataliaKolesnik/SkillFactory_Projects/blob/master/skillfactory_logo.png)
+
+
+### Проекты, выполненные в рамках обучения в онлайн-школе SkillFactory на курсе Data Science
 
 
 * Unit 0 - Самый первый проект на python - игра "Крестики и нолики" и "Угадай число"
