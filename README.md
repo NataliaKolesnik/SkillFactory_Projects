@@ -22,3 +22,5 @@ https://github.com/NataliaKolesnik/Credit_Scoring
 * Unit 6 - Предсказание стоимости подержанных авто
 https://github.com/NataliaKolesnik/Car_Price_prediction
 
+* Unit 7 - Рекомендательная система
+https://github.com/NataliaKolesnik/Recommendation-System
